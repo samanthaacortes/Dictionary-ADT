@@ -1,6 +1,5 @@
 /********************************************************************************* 
- * Samantha Cortes, saalcort 
- * 2023 Winter CSE101 PA8 
+ * Samantha Cortes
  * DictionaryTest.cpp 
  * Dictionary Test for Dictionary ADT 
  *********************************************************************************/ 
