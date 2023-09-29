@@ -1,6 +1,5 @@
 /*********************************************************************************
- * Samantha Cortes, saalcort
- * 2023 Winter CSE101 PA8
+ * Samantha Cortes
  * Dictionary.cpp 
  * Implementation file for Dictionary ADT
  *********************************************************************************/
